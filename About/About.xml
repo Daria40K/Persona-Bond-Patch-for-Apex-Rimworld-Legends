@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Persona Bond Patch for Apex: Rimworld Legends</name>
+	<author>Daria40K</author>
+	<packageId>Daria40K.PersonaBondPatch.ApexRimworldLegends</packageId>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<description>Persona Bond Patch for Apex: Rimworld Legends</description>
+    <modDependencies>
+        <li>
+            <packageId>xedos.personabond</packageId>
+            <displayName>Persona Bond Forge</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2178003816</steamWorkshopUrl>
+        </li>
+
+        <li>
+            <packageId>mlie.apexrimworldlegends</packageId>
+            <displayName>Apex: Rimworld Legends (Continued)</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2567847051</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+</ModMetaData>
