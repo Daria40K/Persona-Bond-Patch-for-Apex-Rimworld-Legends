@@ -2,6 +2,14 @@
 
 ![](https://github.com/Daria40K/Persona-Bond-Patch-for-Apex-Rimworld-Legends/blob/main/About/Preview.png)
 
+## Required Mods
+- [Persona Bond Forge](https://steamcommunity.com/workshop/filedetails/?id=2178003816) (Steam)
+- [Apex: Rimworld Legends (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2567847051) (Steam)
+
+## Download
+- [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2761048467)
+- [GitHub](https://github.com/Daria40K/Persona-Bond-Patch-for-Apex-Rimworld-Legends/releases)
+
 ## Weapons Patch
 - combat handgun
 - shotgun handgun
